@@ -6,3 +6,11 @@ h1 {
   text-align: center;
   text-decoration: none;
 }
+.image {
+  display: block;
+  text-align: center;
+}
+.mail {
+  text-align: center;
+  text-decoration: none;
+}
